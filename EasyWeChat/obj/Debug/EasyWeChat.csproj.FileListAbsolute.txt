@@ -1,0 +1,4 @@
+F:\项目\FrameWork\EasyWeChat\bin\Debug\EasyWeChat.dll
+F:\项目\FrameWork\EasyWeChat\bin\Debug\EasyWeChat.pdb
+F:\项目\FrameWork\EasyWeChat\obj\Debug\EasyWeChat.dll
+F:\项目\FrameWork\EasyWeChat\obj\Debug\EasyWeChat.pdb

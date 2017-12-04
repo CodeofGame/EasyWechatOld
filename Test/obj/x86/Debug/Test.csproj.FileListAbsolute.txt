@@ -1,0 +1,8 @@
+F:\项目\FrameWork\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+F:\项目\FrameWork\Test\bin\Debug\Test.exe.config
+F:\项目\FrameWork\Test\bin\Debug\Test.exe
+F:\项目\FrameWork\Test\bin\Debug\Test.pdb
+F:\项目\FrameWork\Test\bin\Debug\EasyWeChat.dll
+F:\项目\FrameWork\Test\bin\Debug\EasyWeChat.pdb
+F:\项目\FrameWork\Test\obj\x86\Debug\Test.exe
+F:\项目\FrameWork\Test\obj\x86\Debug\Test.pdb
