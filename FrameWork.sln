@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyWeChat", "EasyWeChat\EasyWeChat.csproj", "{A5CDFFE6-36A0-4BF5-BE04-24BF9D81014F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{2545E0FA-7AA7-41D1-A65F-223A131AC9C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,16 @@ Global
 		{A5CDFFE6-36A0-4BF5-BE04-24BF9D81014F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{A5CDFFE6-36A0-4BF5-BE04-24BF9D81014F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{A5CDFFE6-36A0-4BF5-BE04-24BF9D81014F}.Release|x86.ActiveCfg = Release|Any CPU
+		{2545E0FA-7AA7-41D1-A65F-223A131AC9C5}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{2545E0FA-7AA7-41D1-A65F-223A131AC9C5}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{2545E0FA-7AA7-41D1-A65F-223A131AC9C5}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{2545E0FA-7AA7-41D1-A65F-223A131AC9C5}.Debug|x86.ActiveCfg = Debug|x86
+		{2545E0FA-7AA7-41D1-A65F-223A131AC9C5}.Debug|x86.Build.0 = Debug|x86
+		{2545E0FA-7AA7-41D1-A65F-223A131AC9C5}.Release|Any CPU.ActiveCfg = Release|x86
+		{2545E0FA-7AA7-41D1-A65F-223A131AC9C5}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{2545E0FA-7AA7-41D1-A65F-223A131AC9C5}.Release|Mixed Platforms.Build.0 = Release|x86
+		{2545E0FA-7AA7-41D1-A65F-223A131AC9C5}.Release|x86.ActiveCfg = Release|x86
+		{2545E0FA-7AA7-41D1-A65F-223A131AC9C5}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

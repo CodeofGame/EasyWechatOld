@@ -43,6 +43,8 @@
   <ItemGroup>
     <Compile Include="Api\ApiHelper.cs" />
     <Compile Include="Api\CommonApi.cs" />
+    <Compile Include="Container\AccessTokenBag.cs" />
+    <Compile Include="Container\AccessTokenContainer.cs" />
     <Compile Include="Enums.cs" />
     <Compile Include="HttpHelper\HttpUtility.cs" />
     <Compile Include="JsonResult\AccessTokenJsonResult.cs" />
